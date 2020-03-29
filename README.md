@@ -3,10 +3,6 @@
 
 Реализация взята тут https://habr.com/ru/post/443584/, за что автору спасибо. Гит больше не поддерживает https://github.com/Kyrie1965/torrentReleases
 
-Взял смелость на себя дальше вести:
-https://webarmen.com/
-https://github.com/lbarmen
-
 Про установку и ответы на вопросы тут:
 
 Что нового?
